@@ -57,7 +57,7 @@ For lack of BNF, or to write your own BND.
 #### The%# quick brown fox
 13
 
-## Special rules apply for dashes and characters in words
+## Special rules apply for dashes and symbols in words
 #### The- quick
 12
 
@@ -123,6 +123,35 @@ or
 or
 32,12,2,33,42
 
+## Words That Qualify As Numbers
+#### Once
+1
+
+#### To...
+2
+
+#### For
+4
+
 ## Parentheses
 David Cohen (Deputy Director of the CIA)
 1113111 or 2113111
+
+## All Caps/Not Mixed Case
+If all the letters are capitalized, in all words, remove the rules regarding capitalization and everything else is the same.
+
+#### A TWO AND 11 A ELEVEN-THUS 
+224112113 or 2241512113
+
+## Mixed Case With Punctuation As Numbers
+In certain environments, non-terminating punctuation can also take numeric slots.
+(Colons 2, Apostrophes 1, Question Marks 2, Exclamation Points 1, Dollar Signs 5)
+
+#### Today's punctuation: Better than some old fashioned typewriters
+121226
+
+## PEMDAS
+In certain environments, yet rare, mathematical order of operations distributes numbers.
+
+#### The logical (Cone, CIA) -> The logical Cone and The logical CIA
+32111
