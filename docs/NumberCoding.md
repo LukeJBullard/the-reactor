@@ -150,8 +150,19 @@ In certain environments, non-terminating punctuation can also take numeric slots
 #### Today's punctuation: Better than some old fashioned typewriters
 121226
 
+## Mixed Case Without Spaces
+#### RandomNumberGenerator
+11213
+
+#### camelCaseSpaceless
+123
+
 ## PEMDAS
 In certain environments, yet rare, mathematical order of operations distributes numbers.
 
 #### The logical (Cone, CIA) -> The logical Cone and The logical CIA
 32111
+
+## Leet Speak (Helps to Aid various situations)
+[Leet on Wikipedia](https://simple.wikipedia.org/wiki/Leet)
+It is best to find a standard set of numbers that correspond to letters and stick to that.
